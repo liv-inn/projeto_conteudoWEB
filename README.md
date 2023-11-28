@@ -43,7 +43,7 @@ Os ícones gráficos do site, provenientes do Flaticon, foram utilizados para co
 A fonte escolhida foi a Roboto, utilizando suas versões extrabold para títulos, itálico para subtítulos e light para o corpo do texto. Essa escolha foi feita devido à sua legibilidade e popularidade como uma fonte comum.
 
 Confira o site:
-[Site e-calm](assets/e-calm%20(1).pdf)
+[Site e-calm](assets/e-calm.pdf)
 
 ### Imagem autoral
 A imagem foi gerada por inteligência artificial, seguindo instruções para expressar a ansiedade associada ao uso de tecnologias. Posteriormente, foi editada no Photoshop para inserir códigos de programação de forma discreta e suave em seu fundo.
